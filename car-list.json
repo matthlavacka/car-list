@@ -36,4 +36,8 @@
 {"brand": "Fiat", "models": ["1100", "126", "500", "500L", "500X", "850", "Barchetta", "Brava", "Cinquecento", "Coupé", "Croma", "Doblo", "Doblo Cargo", "Doblo Cargo Combi", "Ducato", "Ducato Van", "Ducato Kombi", "Ducato Podvozok", "Florino", "Florino Combi", "Freemont", "Grande Punto", "Idea", "Linea", "Marea", "Marea Weekend", "Multipla", "Palio Weekend", "Panda", "Panda Van", "Punto", "Punto Cabriolet", "Punto Evo", "Punto Van", "Qubo", "Scudo", "Scudo Van", "Scudo Kombi", "Sedici", "Seicento", "Stilo", "Stilo Multiwagon", "Strada", "Talento", "Tipo", "Ulysse", "Uno", "X1/9"]},
 {"brand": "MINI", "models": ["Cooper", "Cooper Cabrio", "Cooper Clubman", "Cooper D", "Cooper D Clubman", "Cooper S", "Cooper S Cabrio", "Cooper S Clubman", "Countryman", "Mini One", "One D"]},
 {"brand": "Rover", "models": ["200", "214", "218", "25", "400", "414", "416", "620", "75"]},
-{"brand": "Smart", "models": ["Cabrio", "City-Coupé", "Compact Pulse", "Forfour", "Fortwo cabrio", "Fortwo coupé", "Roadster"]}]
+{"brand": "Smart", "models": ["Cabrio", "City-Coupé", "Compact Pulse", "Forfour", "Fortwo cabrio", "Fortwo coupé", "Roadster"]},
+{"brand": "Acura", "models": ["MDX", "RDX", "ILX", "RLX", "TLX", "NSX", "CDX"]},
+{"brand": "Cadillac", "models": ["CT4", "CT5", "CT6", "CT4-V", "CT5-V", "CT6-V", "XT4", "XT5", "XT6", "Escalade"]},
+{"brand": "Tesla", "models": ["S", "X", "3"]},
+{"brand": "McLaren", "models": ["600LT", "570S", "570GT", "540C", "720S", "Senna", "Speedtail", "GT"]}]
