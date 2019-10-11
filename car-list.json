@@ -36,4 +36,7 @@
 {"brand": "Fiat", "models": ["1100", "126", "500", "500L", "500X", "850", "Barchetta", "Brava", "Cinquecento", "Coupé", "Croma", "Doblo", "Doblo Cargo", "Doblo Cargo Combi", "Ducato", "Ducato Van", "Ducato Kombi", "Ducato Podvozok", "Florino", "Florino Combi", "Freemont", "Grande Punto", "Idea", "Linea", "Marea", "Marea Weekend", "Multipla", "Palio Weekend", "Panda", "Panda Van", "Punto", "Punto Cabriolet", "Punto Evo", "Punto Van", "Qubo", "Scudo", "Scudo Van", "Scudo Kombi", "Sedici", "Seicento", "Stilo", "Stilo Multiwagon", "Strada", "Talento", "Tipo", "Ulysse", "Uno", "X1/9"]},
 {"brand": "MINI", "models": ["Cooper", "Cooper Cabrio", "Cooper Clubman", "Cooper D", "Cooper D Clubman", "Cooper S", "Cooper S Cabrio", "Cooper S Clubman", "Countryman", "Mini One", "One D"]},
 {"brand": "Rover", "models": ["200", "214", "218", "25", "400", "414", "416", "620", "75"]},
-{"brand": "Smart", "models": ["Cabrio", "City-Coupé", "Compact Pulse", "Forfour", "Fortwo cabrio", "Fortwo coupé", "Roadster"]}]
+{"brand": "Smart", "models": ["Cabrio", "City-Coupé", "Compact Pulse", "Forfour", "Fortwo cabrio", "Fortwo coupé", "Roadster"]},
+{"brand": "Lada", "models": ["2101", "2102", "2103", "2104 Matriuska", "2105", "2106", "2107", "Niva", "Samara", "110", "111", "112", "Kalina", "Priora", "Granta", "Largus", "Vesta"]},
+{"brand": "Geely", "models": ["Beauty Leopard", "Borui", "Boyue", "CE", "Concept", "Coupe", "Emgrand" ,"FC", "GC7", "GC9", "GE", "Haoqing", "LC", "LG 3", "Merrie", "MK", "Otaka", "Panda", "Shanghai", "Uliou", "Vision X6"]},
+{"brand": "Tesla", "models": ["Roadster", "Roadster Sport", "Model S", "Model X", "Model 3"]}]
